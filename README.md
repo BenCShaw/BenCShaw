@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Ben 
 
-<!--
-**BenCShaw/BenCShaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS student exploring **AI + MLOps**, focused on building a healthcare-centered AI infrastructure while becoming fluent in AI-collaborative coding.
 
-Here are some ideas to get you started:
+### Current Focus
+- Developing foundational skills in ML infrastructure and automation  
+- Building out my [AHT Roadmap](https://github.com/BenCShaw/AHT-roadmap)  
+- Experimenting inside my [AI Collab Vibe Lab](https://github.com/BenCShaw/ai-collab-vibe-lab)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Future Goals
+- Launch small open-source healthcare AI tools  
+- Earn cloud and ML certifications (AWS, GCP)  
+- Continue documenting and sharing everything I learn in public
