@@ -6,7 +6,7 @@ I'm a CS student passionate about biulding software and exploring artificial int
 ### Current Focus
 - Strengthing computer science and software engineering fundamentals
 - Learning software architecture and systems design
-- Growing my ability to design and build intelligent software systems
+- Building my ability to design and build intelligent software systems
 - Exploring artificial intelligence
 
 ### Future Goals
