@@ -1,6 +1,6 @@
 # Hey, I'm Ben 
 
-I'm a CS student exploring **AI + MLOps**, focused on building a healthcare-centered AI infrastructure while becoming fluent in AI-collaborative coding.
+I'm a CS student passionate about biulding software and exploring artificial intellidence. I enjoy learning how modern sytems are designed, from software enginnering fundamentals to sytems architecture.
 
 ### Current Focus
 - Developing foundational skills in ML infrastructure and automation  
