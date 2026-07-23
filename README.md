@@ -1,6 +1,5 @@
 # Ben Shaw
-
-##Computer science student
+###Computer science student
 
 I'm a CS student passionate about biulding software and exploring artificial intellidence. I enjoy learning how modern sytems are designed, from software enginnering fundamentals to sytems architecture.
 
